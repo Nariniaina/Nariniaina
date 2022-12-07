@@ -4,6 +4,8 @@
 
 I'm currently running on
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nariniaina&layout=compact)](https://github.com/nariniaina/github-readme-stats)
+
 ![Test Image 1](/technologie.png)
 
 - Frontend Developper : web 💻 and mobile 📱
