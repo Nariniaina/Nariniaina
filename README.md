@@ -12,5 +12,8 @@ I'm currently running on
 - NodeJS backend
 - Some gaming too
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nariniaina&layout=compact)](https://github.com/nariniaina/github-readme-stats)
-![Nariniaina's GitHub stats](https://github-readme-stats.vercel.app/api?username=nariniaina&show_icons=true&theme=tokyonight)
+### Sublime's custom image
+<p align="center">
+  ![Nariniaina's GitHub stats](https://github-readme-stats.vercel.app/api?username=nariniaina&show_icons=true&theme=tokyonight)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nariniaina&layout=compact)](https://github.com/nariniaina/github-readme-stats)
+</p>
