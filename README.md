@@ -1,9 +1,9 @@
 ![Test Image 1](/couverture1.jpg)
 ![](https://komarev.com/ghpvc/?username=your-github-nariniaina&color=blue)
 
-<div align="center"> <h2> Follow me to boost me up 🚀🚀 </h2> </div>
-
 ## Hey! I'm Nariniaina, a developper
+
+<div align="center"> <h4> Follow me to boost me up 🚀🚀 </h4> </div>
 
 I'm currently running on
 
