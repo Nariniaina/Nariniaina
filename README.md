@@ -1,8 +1,7 @@
 ![Test Image 1](/couverture1.png)
+![Test Image 2](/profile-pic.png)
 
 ## Hey! I'm Nariniaina, a developper
-
-![Test Image 2](/profile-pic.png)
 
 I'm currently running on
 
