@@ -1,6 +1,8 @@
 ![Test Image 1](/couverture1.jpg)
 ![](https://komarev.com/ghpvc/?username=your-github-nariniaina&color=blue)
 
+<div align="center"> ## Follow me to boost me up 🚀🚀 </div>
+
 ## Hey! I'm Nariniaina, a developper
 
 I'm currently running on
@@ -12,5 +14,3 @@ I'm currently running on
 - NextJS and reactJS app ⚛️
 - ReactNative and Hybrid app on Ionic, capacitor
 - NodeJS backend
-
-## Follow me to boost me up 🚀🚀
