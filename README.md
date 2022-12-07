@@ -13,4 +13,4 @@ I'm currently running on
 - ReactNative and Hybrid app on Ionic, capacitor
 - NodeJS backend
 
-## Follow me for more
+## Follow me to boost me up 🚀🚀
