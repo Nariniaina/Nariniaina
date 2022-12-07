@@ -4,12 +4,13 @@
 
 I'm currently running on
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nariniaina&layout=compact)](https://github.com/nariniaina/github-readme-stats)
-
-![Nariniaina's GitHub stats](https://github-readme-stats.vercel.app/api?username=nariniaina&show_icons=true&theme=tokyonight)
+![Test Image 2](/technologie.jpg)
 
 - Frontend Developper : web 💻 and mobile 📱
 - NextJS and reactJS app ⚛️
 - ReactNative and Hybrid app on Ionic, capacitor
 - NodeJS backend
 - Some gaming too
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nariniaina&layout=compact)](https://github.com/nariniaina/github-readme-stats)
+![Nariniaina's GitHub stats](https://github-readme-stats.vercel.app/api?username=nariniaina&show_icons=true&theme=tokyonight)
