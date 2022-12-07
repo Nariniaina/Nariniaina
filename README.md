@@ -13,5 +13,4 @@ I'm currently running on
 - NodeJS backend
 
 ### Stats
-![Nariniaina's GitHub stats](https://github-readme-stats.vercel.app/api?username=nariniaina&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nariniaina&layout=compact)](https://github.com/nariniaina/github-readme-stats)
