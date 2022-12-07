@@ -13,3 +13,5 @@ I'm currently running on
 - ReactNative and Hybrid app on Ionic, capacitor
 - NodeJS backend
 - Some gaming too
+
+![Nariniaina's GitHub stats](https://github-readme-stats.vercel.app/api?username=nariniaina&show_icons=true&theme=tokyonight)
