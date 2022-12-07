@@ -1,5 +1,5 @@
-![Test Image 1](/couverture1.png)
-![Test Image 2](/profile-pic.png)
+![Test Image 1](/couverture1.jpg)
+![Test Image 2](/profile-pic.jpg)
 
 ## Hey! I'm Nariniaina, a developper
 
