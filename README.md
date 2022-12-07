@@ -4,6 +4,8 @@
 
 I'm currently running on
 
+![Test Image 1](/technologie.png)
+
 - Frontend Developper : web 💻 and mobile 📱
 - NextJS and reactJS app ⚛️
 - ReactNative and Hybrid app on Ionic, capacitor
