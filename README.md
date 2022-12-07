@@ -12,3 +12,5 @@ I'm currently running on
 - NextJS and reactJS app ⚛️
 - ReactNative and Hybrid app on Ionic, capacitor
 - NodeJS backend
+
+## Follow me for more
